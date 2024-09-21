@@ -1,4 +1,4 @@
-import './bootstrap';
+import './dataTables';
 
 import Alpine from 'alpinejs';
 
